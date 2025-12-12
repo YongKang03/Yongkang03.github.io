@@ -2,6 +2,10 @@
 Hello there! I am Goo Yong Kang, specializing interactive software technology in computer science field. I dream to become game developer.
 
 ## Skill
+- **Programming Language** - C, C++, C#, Python, Java, Kotlin
+- **Technical Skill** - Object-Oriented Programming (OOP), AI programming, VR/AR development, SQL, Web development, Graphics programming, Data structures and algorithms, Mobile development
+- **Tool** - Unity, Microsoft Visual Studio, GitHub, Android Studio
+- **Other** - 
 
 ## Featured Project
 
