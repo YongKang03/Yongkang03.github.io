@@ -1,5 +1,5 @@
-# Yongkang03's GitHub
-Hello there! I am Goo Yong Kang, specializing interactive software technology in computer science field. I dream to become game developer.
+## About Me
+Hello there! I am Goo Yong Kang, specializing interactive software technology in computer science field.
 
 ## Skill
 - **Programming Language** - C, C#, C++, Python, Java, Kotlin
