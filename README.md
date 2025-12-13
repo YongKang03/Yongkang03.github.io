@@ -1,5 +1,12 @@
+# Goo Yong Kang
+**Computer Science (Honours) – Interactive Software Technology**  
+
+**Email** - [yongkanggoo9@gmail.com](mailto:yongkanggoo9@gmail.com)  
+**GitHub** - [https://github.com/YongKang03](https://github.com/YongKang03)  
+**LinkedIn** - [https://www.linkedin.com/in/goo-yong-kang-bb92783a0](https://www.linkedin.com/in/goo-yong-kang-bb92783a0)  
+
 ## About Me
-Hello there! I am Goo Yong Kang, specializing interactive software technology in computer science field. I am passionate to become game developer and build my career in game industry.
+Hello there! I am Goo Yong Kang, a student who is specializing interactive software technology in computer science field. I am passionate to become game developer and build my career in game industry.
 
 ## Skill
 - **Programming Language**💻 - C, C#, C++, Python, Java, Kotlin
@@ -19,7 +26,3 @@ Hello there! I am Goo Yong Kang, specializing interactive software technology in
 </p>
 
 More projects coming soon...
-
-## Contact
-- **Email** - yongkanggoo9@gmail.com
-- **LinkedIn** - https://www.linkedin.com/in/goo-yong-kang-bb92783a0
