@@ -1,15 +1,15 @@
 ## About Me
-Hello there! I am Goo Yong Kang, specializing interactive software technology in computer science field.
+Hello there! I am Goo Yong Kang, specializing interactive software technology in computer science field. I am passionate to become game developer and build my career in game industry.
 
 ## Skill
-- **Programming Language** - C, C#, C++, Python, Java, Kotlin
-- **Core Technical Skill** - Game development, Object-Oriented Programming (OOP), AI programming
-- **Soft Technical Skill** - UI/UX design principle, VR/AR development, SQL, Web development, Graphics programming, Mobile development
-- **Tool** - Unity, Microsoft Visual Studio, paint.net, GitHub
+- **Programming Language**💻 - C, C#, C++, Python, Java, Kotlin
+- **Core Technical Skill**🗡️ - Game development, Object-Oriented Programming (OOP), AI programming
+- **Soft Technical Skill**🏹 - UI/UX design principle, VR/AR development, SQL, Web development, Graphics programming, Mobile development
+- **Tool**🛠️ - Unity, Microsoft Visual Studio, paint.net, GitHub
 
 ## Featured Project
 
-### Friend Mart Simulator
+### Friend Mart Simulator 🏪
 <p align="center">
   <img src="Friend_Mart_Simulator_Page.png" width="480">
   <br>
