@@ -1,5 +1,5 @@
 # Goo Yong Kang
-**Computer Science (Honours) – Interactive Software Technology**  
+**Computer Science – Interactive Software Technology**  
 
 **Email** - [yongkanggoo9@gmail.com](mailto:yongkanggoo9@gmail.com)  
 **GitHub** - [https://github.com/YongKang03](https://github.com/YongKang03)  
