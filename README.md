@@ -20,9 +20,18 @@ Hello there! I am Goo Yong Kang, a student who is specializing interactive softw
 <p align="center">
   <img src="Media/Friend_Mart_Simulator_Page.png" width="480">
   <br>
-  <em>Friend Mart Simulator</em>, a VR game that simulates a realistic and immersive working environment in a convenience store.
+  A VR game that simulates a realistic and immersive working environment in a convenience store.
   <br>
   <a href="https://github.com/YongKang03/friend-mart-simulator">View Repository</a>
 </p>
 
-More projects coming soon...
+### Tower Defense Template 🏰
+<p align="center">
+  <img src="Media/TowerDefenseTemplate_Page.png" width="480">
+  <br>
+  An exercise where the modularity, reusabulity and scalability of game systems were explored.
+  <br>
+  <a href="https://github.com/YongKang03/tower-defense-template">View Repository</a>
+</p>
+
+Building more projects... ⚒️
