@@ -20,7 +20,7 @@ Hello there! I am Goo Yong Kang, a student who is specializing interactive softw
 <p align="center">
   <img src="Media/Friend_Mart_Simulator_Page.png" width="480">
   <br>
-  A VR game that simulates immersive working environment in a convenience store.
+  A VR game that simulates an immersive working environment in a convenience store.
   <br>
   <a href="https://github.com/YongKang03/friend-mart-simulator">View Repository</a>
 </p>
