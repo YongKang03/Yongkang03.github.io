@@ -34,4 +34,13 @@ Hello there! I am Goo Yong Kang, a student who is specializing interactive softw
   <a href="https://github.com/YongKang03/tower-defense-template">View Repository</a>
 </p>
 
+### Versus Multiplyer Shooter 🔫
+<p align="center">
+  <img src="Media/VersusMultiplayerShooter_Page.png" width="480">
+  <br>
+ A multiplayer third-person shooter prototype built with Unity and FishNet.
+  <br>
+  <a href="https://github.com/YongKang03/versus-multiplayer-shooter">View Repository</a>
+</p>
+
 Building more projects... ⚒️
