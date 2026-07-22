@@ -6,13 +6,42 @@
 **LinkedIn** - [https://www.linkedin.com/in/goo-yong-kang-bb92783a0](https://www.linkedin.com/in/goo-yong-kang-bb92783a0)  
 
 ## About Me
-Hello there! I am Goo Yong Kang, a student who is specializing interactive software technology in computer science field. I am passionate about becoming a game developer and building my career in the game industry
+Hello there! I am Goo Yong Kang, a Computer Science student specializing interactive software technology. I am passionate about becoming a game developer and building my career in the game industry. I enjoy designing and developing interactive applications especially games, and improving technical features or solutions through iteration.
 
 ## Skill
-- **Programming Languages**💻 - C, C#, C++, Python, Java, Kotlin
-- **Core Technical Skills**🗡️ - Game development, Object-Oriented Programming (OOP), AI programming
-- **Additional Technical Skills**🏹 - UI/UX design principle, VR/AR development, SQL, Web development, Graphics programming, Mobile development
-- **Tools**🛠️ - Unity, Microsoft Visual Studio, paint.net, GitHub
+
+### Core Technical Skills 🗡️
+- Game development
+- Unity development
+- Object-Oriented Programming (OOP)
+- Game AI programming
+
+### Additional Technical Skills 🏹
+- UI/UX design principle
+- VR/AR development
+- SQL
+- Web development
+- Graphics programming
+- AI programming
+- Mobile development
+
+### Programming Languages 💻
+- C#
+- C
+- C++
+- Python
+- Java
+- Kotlin
+
+### Tools 🛠️
+- Unity
+- Microsoft Visual Studio
+- Discord
+- draw.io
+- GitHub
+- GitHub Desktop
+- FishNet
+- Figma
 
 ## Featured Project
 
